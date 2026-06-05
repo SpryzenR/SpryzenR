@@ -1,5 +1,8 @@
 # Welcome
 
+Hello I'm Spryzen, I am an aspiring CS student
+
+## Fun facts
 1. Currently I'm praying for a 4 or 5 on the APCSA Exam
 2. Currently learning Github, LaTeX, and Cybersecurity.
 3. Ask me about APCSP and ACPSA
