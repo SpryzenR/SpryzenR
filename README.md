@@ -1,6 +1,10 @@
-## Hi there 👋
+# About me
 
-<!--
+1. Currently I'm praying for a 4 or 5 on the APCSA Exam
+2. Currently learning Github, LaTeX, and Cybersecurity.
+3. Ask me about APCSP and ACPSA
+
+<!-- (hides other lines)
 **SpryzenR/SpryzenR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
